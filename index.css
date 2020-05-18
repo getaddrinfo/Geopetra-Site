@@ -292,6 +292,12 @@ p {
 	color: #1e2124;
 }
 
+.headerNavRight span {
+	font-family: "Poppins", sans-serif;
+	cursor: pointer;
+	margin-right: 20px;
+}
+
 
 .headerTransparent {
   background: transparent;
